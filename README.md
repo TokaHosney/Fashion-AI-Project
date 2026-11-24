@@ -12,4 +12,4 @@ This project predicts three fashion attributes from images:
 
 ## Google Colab Notebook
 
-[Open Fashion AI Notebook][(PASTE_COLAB_LINK_HERE)](https://colab.research.google.com/drive/1tyOuW11_asn6_sPlJXFBJuNYEa19O5yW?usp=sharing)
+[Open Fashion AI Notebook][((https://colab.research.google.com/drive/1tyOuW11_asn6_sPlJXFBJuNYEa19O5yW?usp=sharing))]
